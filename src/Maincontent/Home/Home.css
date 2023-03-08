@@ -1,0 +1,54 @@
+body {
+    font-family: "Poppins", sans-serif;
+  }
+  .showcase-area {
+    height: 50vh;
+    background: linear-gradient(
+        rgba(240, 240, 240, 0.144),
+        rgba(255, 255, 255, 0.336)
+      ),
+      url("https://i.postimg.cc/wT3TQS3V/header-image2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .showcase-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 1.6rem;
+  }
+
+  
+#about {
+    padding: 50px 0;
+    background: linear-gradient(
+      rgba(240, 240, 240, 0.144),
+      rgba(255, 255, 255, 0.336)
+    ),
+    url("https://i.postimg.cc/wT3TQS3V/header-image2.jpg");
+  }
+  
+  .about-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  #about h2 {
+    font-size: 2.3rem;
+  }
+  
+  #about p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  #about .small {
+    font-size: 1.2rem;
+    color: #666;
+    font-weight: 600;
+  }
+  

@@ -1,0 +1,47 @@
+h1{
+    color: rgba(16, 18, 116, 0.433);
+}
+/* img{
+   
+    width: 33%;
+    padding: 10px;
+} */
+.wrapper_inner {
+  width: 90%;
+  margin: 0px auto;
+}
+.inp {
+  text-align: start;
+  margin-left: 62%;
+  float: right;
+position: fixed;
+  top: 105px;
+  }
+  img {
+    width: 10%;
+    height: auto;
+    vertical-align: middle;
+    padding: 10px;
+    margin-left: 287px;
+    overflow-y: hidden;
+    display:flex;
+    overflow-x: hidden;
+    top: 107px;
+  }
+  .imgcontent{
+    width: 90%;
+    top: 40px;
+    vertical-align: middle;
+    padding-top: 10px;
+    margin-right: 290px;
+  }
+  p{
+    width: 50%;
+    height: auto;
+    vertical-align: middle;
+  
+    margin-top: 57px;
+    margin-left: 290px;
+  }
+ 
+  
